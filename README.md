@@ -14,7 +14,9 @@ I'm here to help people get data faster and with a lot of confidence!
 
 
 
-My Linkedin Profile [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/).
-My Upwork Profile [Upwork](https://www.upwork.com/freelancers/~01e270ef24f4fb423a).
+My [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/) Profile.
+
+
+My [Upwork](https://www.upwork.com/freelancers/~01e270ef24f4fb423a) Profile.
 
 
