@@ -9,3 +9,4 @@ I'm here to help people get data faster and with a lot of confidence!
 -  I also work as a freelancer at @upwork
 
 [![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejardimf)](https://github.com/felipejardimf/github-readme-stats)
+![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejardimf&show_icons=true&theme=radical)
