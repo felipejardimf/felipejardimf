@@ -9,7 +9,7 @@ I'm here to help people get data faster and with a lot of confidence!
 - co-founder @vendamaisgov
 - Top-rated freelancer at @upwork
 
-![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipejardimf&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipejardimf&layout=compact)](https://github.com/felipejardimf/github-readme-stats)
+
 
 
 
