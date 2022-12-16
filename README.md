@@ -1,16 +1,11 @@
-### Hi there 👋
+### Olá 👋
 
-My name is Felipe Jardim and I’m a professional Data Engineer and web scraping expert.
-
-I'm here to help people get data faster and with a lot of confidence!
+Meu nome é Felipe Jardim, Sou Engenheiro de Dados.
 
 
-- Data Engineer @powerofdata
-- co-founder @vendamaisgov
-- Top-rated freelancer at @upwork
-
-
-
+- Engenheiro de Dados @powerofdata
+- Co-fundador @vendamaisgov
+- Top-rated freelancer na @upwork
 
 
 My [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/) Profile.
