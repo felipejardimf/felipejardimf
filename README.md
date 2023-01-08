@@ -1,16 +1,15 @@
 ### Olá 👋
 
-Meu nome é Felipe Jardim, Sou Engenheiro de Dados.
-
+Meu nome é Felipe Jardim, amo café e tecnologia!
 
 - Engenheiro de Dados @powerofdata
 - Co-fundador @vendamaisgov
 - Top-rated freelancer na @upwork
 
 
-My [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/) Profile.
+Meu perfil do [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/).
 
 
-My [Upwork](https://www.upwork.com/freelancers/~01e270ef24f4fb423a) Profile.
+Meu perfil da [Upwork](https://www.upwork.com/freelancers/~01e270ef24f4fb423a)
 
 
