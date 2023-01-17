@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu nome é Felipe Jardim, amo café e tecnologia!
+Meu nome é Felipe Jardim Fiorentino, amo café e tecnologia!
 
 - Engenheiro de Dados @powerofdata
 - Co-fundador @vendamaisgov
