@@ -17,5 +17,7 @@ Meu nome é Felipe Jardim Fiorentino, amo café, música, games e tecnologia! ( 
 
 Meu perfil do [Linkedin](https://www.linkedin.com/in/felipe-jardim-fiorentino-0a0b5972/)
 
+Meu site : [FelipeJardim](https://felipejardim.online/) 
+
 
 
