@@ -1,7 +1,8 @@
 
-Meu nome é Felipe Jardim Fiorentino, amo café, música, games e tecnologia! ( talvez não seja nessa ordem ) 
 
-
+ Olá! 
+ 
+ Amo café, música, games e tecnologia! ( talvez não seja nessa ordem ) 
 
 
 ✔️ 12 anos de experiência em Tecnologia.
