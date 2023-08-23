@@ -3,9 +3,13 @@
 Meu nome é Felipe Jardim Fiorentino, amo café e tecnologia!
 
 ✔️ 12 anos de experiência em Tecnologia.
+
 ✔️ Engenheiro de Dados Sênior @powerofdata
+
 ✔️ Co-fundador @vendamaisgov
+
 ✔️ Professor @podacademy
+
 ✔️ Top-rated freelancer na @upwork
 
 
